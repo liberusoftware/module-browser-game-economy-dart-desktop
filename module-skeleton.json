@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-economy-dart-desktop",
+  "capabilityKey": "liberusoftware/module-browser-game-economy",
+  "presentation": "dart-desktop",
+  "package": "module_browser_game_economy_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/browser-game/nextjs/economy.md",
+  "presentationPlan": "projects/browser-game/features/economy.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
